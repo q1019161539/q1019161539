@@ -1,0 +1,17 @@
+__pycache__/
+build/
+dist/
+*.spec
+*.exe
+*.xlsx
+*.xlsm
+*.xls
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.webp
+quark_credentials.json
+启动日志.txt
+enum_windows.ps1
+tk_test.py
